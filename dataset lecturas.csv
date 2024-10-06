@@ -1,23 +1,30 @@
 Titulo,Genero,Autor,Nacionalidad,Calificacion,Fecha_lectura,Año_publicacion,Paginas
-Marina,Thriller,Carlos Ruiz Zafon,España,4,2022-01-09,1999,238
-Indias blancas,Ficcion historica,Florencia Bonelli,Argentina,4,2022-01-25,2005,480
-La vuelta del ranquel,Ficcion historica,Florencia Bonelli,Argentina,4,2022-02-05,2005,432
-Las viudas de los jueves,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,2022-02-06,2005,320
-Billy Summers,Thriller,Stephen King,Estados Unidos,3,2022-04-19,2021,517
-A fuego lento,Thriller,Paula Hawkins,Reino Unido,3,2022-04-30,2021,480
-Una suerte pequeña,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,2022-05-07,2015,271
-Palabras cruzadas,Psicologia,Gabriel Rolon,Argentina,4,2022-06-01,2011,288
-Las grietas de Jara,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,2022-06-01,2009,256
-El retrato de Dorian Gray,Ficcion gotica,Oscar Wilde,Irlanda,4,2022-06-24,1890,306
-Tuya,Ficcion contemporanea,Claudia Piñeiro,Argentina,3,2022-06-25,2005,176
-El extraño caso del Dr. Jekyll y Mr. Hyde,Ficcion gotica,Robert Louis Stevenson,Reino Unido,4,2022-06-26,1886,144
-El viejo y el mar,Ficcion,Ernest Hemingway,Estados Unidos,2,2022-07-03,1952,147
-1984,Distopia,George Orwell,Reino Unido,3,2022-08-03,1949,298
-To Paradise,Distopia,Hanya Yanagihara,Estados Unidos,3,2022-08-21,2022,720
-Estoy pensando en dejarlo,Thriller psicologico,Iain Reid,Canada,4,2022-11-28,2016,208
-Juego de tronos,Fantasia,George R.R. Martin,Estados Unidos,5,2022-12-14,1996,832
-Cadaver exquisito,Distopia,Agustina Bazterrica,Argentina,3,2022-12-21,2017,249
-El fantasma de Canterville,Ficcion gotica,Oscar Wilde,Irlanda,3,2022-12-25,1887,184
+Marina,Thriller,Carlos Ruiz Zafon,España,4,09/01/2022,1999,238
+Indias blancas,Ficcion historica,Florencia Bonelli,Argentina,4,25/01/2022,2005,480
+La vuelta del ranquel,Ficcion historica,Florencia Bonelli,Argentina,4,05/02/2022,2005,432
+Las viudas de los jueves,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,06/02/2022,2005,320
+Cujo,Terror,Stephen King,Estados Unidos,5,02/03/2022,1981,432
+El amante japonés,Romance,Isabel Allende,Chile,4,18/03/2022,2015,347
+Billy Summers,Thriller,Stephen King,Estados Unidos,3,19/04/2022,2021,517
+A fuego lento,Thriller,Paula Hawkins,Reino Unido,3,30/04/2022,2021,480
+Una suerte pequeña,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,07/05/2022,2015,271
+Palabras cruzadas,Psicologia,Gabriel Rolon,Argentina,4,01/06/2022,2011,288
+Las grietas de Jara,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,01/06/2022,2009,256
+El retrato de Dorian Gray,Ficcion gotica,Oscar Wilde,Irlanda,4,24/06/2022,1890,306
+Tuya,Ficcion contemporanea,Claudia Piñeiro,Argentina,3,25/06/2022,2005,176
+El extraño caso del Dr. Jekyll y Mr. Hyde,Ficcion gotica,Robert Louis Stevenson,Reino Unido,4,26/06/2022,1886,144
+El viejo y el mar,Ficcion,Ernest Hemingway,Estados Unidos,2,03/07/2022,1952,147
+1984,Distopia,George Orwell,Reino Unido,3,03/08/2022,1949,298
+To Paradise,Distopia,Hanya Yanagihara,Estados Unidos,3,21/08/2022,2022,720
+Diez negritos,Reino Unido,Agatha Christie,Policial,5,05/09/2022,1939,167
+La sombra del viento,Misterio ,Carlos Ruiz Zafón,España,5,11/09/2022,2001,478
+Los siete maridos de Evelyn Hugo,Ficción,Taylor Jenkins Reid,Estados Unidos,5,29/09/2022,2017,384
+Tan poca vida,Drama,Hanya Yanagihara,Estados Unidos,5,22/10/2022,2015,1008
+La sospecha de Sofía,Ficción histórica,Paloma Sánchez-Garnica,España,4,12/11/2022,2019,725
+Estoy pensando en dejarlo,Thriller psicologico,Iain Reid,Canada,4,28/11/2022,2016,208
+Juego de tronos,Fantasia,George R.R. Martin,Estados Unidos,5,14/12/2022,1996,832
+Cadaver exquisito,Distopia,Agustina Bazterrica,Argentina,3,21/12/2022,2017,249
+El fantasma de Canterville,Ficcion gotica,Oscar Wilde,Irlanda,3,25/12/2022,1887,184
 Elena Sabe,Ficcion contemporanea,Claudia Piñeiro,Argentina,4,2023-01-08,2007,173
 Cronica de una muerte anunciada,Ficcion,Gabriel Garcia Marquez,Colombia,3,2023-01-13,1981,118
 El tunel,Thriller psicologico,Ernesto Sabato,Argentina,3,2023-01-15,1948,158
